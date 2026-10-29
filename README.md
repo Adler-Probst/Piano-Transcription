@@ -19,6 +19,9 @@ Interface / GUI - create an interface or GUI for easier use of program.
 
 # Tech Stack
 Language - Python
+
 Libraries - librosa, music21
+
 Data Storage - local CSV file for storing music history and summary AND output file of sheet music
+
 External Data - publicly available piano audio files for testing. (librosa).
